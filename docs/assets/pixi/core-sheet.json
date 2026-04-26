@@ -1,0 +1,195 @@
+{
+  "frames": {
+    "Mobile-Controls-Normal": {
+      "frame": { "x": 0, "y": 0, "w": 1162, "h": 800 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1162, "h": 800 },
+      "sourceSize": { "w": 1162, "h": 800 }
+    },
+    "Mobile-Controls": {
+      "frame": { "x": 0, "y": 1156, "w": 1162, "h": 800 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1162, "h": 800 },
+      "sourceSize": { "w": 1162, "h": 800 }
+    },
+    "Guides": {
+      "frame": { "x": 1166, "y": 1382, "w": 320, "h": 280 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 280 },
+      "sourceSize": { "w": 320, "h": 280 }
+    },
+    "Theremin Body Mobile": {
+      "frame": { "x": 0, "y": 2693, "w": 2828, "h": 729 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 2828, "h": 729 },
+      "sourceSize": { "w": 2828, "h": 729 }
+    },
+    "Theremin Body Normal": {
+      "frame": { "x": 0, "y": 1960, "w": 2828, "h": 729 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 2828, "h": 729 },
+      "sourceSize": { "w": 2828, "h": 729 }
+    },
+    "Screen": {
+      "frame": { "x": 1818, "y": 1666, "w": 858, "h": 157 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 858, "h": 157 },
+      "sourceSize": { "w": 858, "h": 157 }
+    },
+    "Symbols": {
+      "frame": { "x": 2832, "y": 1960, "w": 292, "h": 292 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 292, "h": 292 },
+      "sourceSize": { "w": 292, "h": 292 }
+    },
+    "Wire-3-Normal": {
+      "frame": { "x": 2832, "y": 2528, "w": 274, "h": 118 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 274, "h": 118 },
+      "sourceSize": { "w": 274, "h": 118 }
+    },
+    "Wire-3": {
+      "frame": { "x": 311, "y": 1008, "w": 274, "h": 118 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 274, "h": 118 },
+      "sourceSize": { "w": 274, "h": 118 }
+    },
+    "Wire-2-Normal": {
+      "frame": { "x": 123, "y": 1008, "w": 184, "h": 124 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 124 },
+      "sourceSize": { "w": 184, "h": 124 }
+    },
+    "Wire-2": {
+      "frame": { "x": 2832, "y": 2256, "w": 184, "h": 124 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 124 },
+      "sourceSize": { "w": 184, "h": 124 }
+    },
+    "Wire-1-Normal": {
+      "frame": { "x": 2832, "y": 2693, "w": 119, "h": 348 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 119, "h": 348 },
+      "sourceSize": { "w": 119, "h": 348 }
+    },
+    "Wire-1": {
+      "frame": { "x": 0, "y": 804, "w": 119, "h": 348 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 119, "h": 348 },
+      "sourceSize": { "w": 119, "h": 348 }
+    },
+    "Video-Normal": {
+      "frame": { "x": 1166, "y": 1666, "w": 322, "h": 282 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 322, "h": 282 },
+      "sourceSize": { "w": 322, "h": 282 }
+    },
+    "Video": {
+      "frame": { "x": 1492, "y": 1666, "w": 322, "h": 282 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 322, "h": 282 },
+      "sourceSize": { "w": 322, "h": 282 }
+    },
+    "Switch-On-Normal": {
+      "frame": { "x": 267, "y": 804, "w": 140, "h": 200 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 200 },
+      "sourceSize": { "w": 140, "h": 200 }
+    },
+    "Switch-Off-Normal": {
+      "frame": { "x": 123, "y": 804, "w": 140, "h": 200 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 200 },
+      "sourceSize": { "w": 140, "h": 200 }
+    },
+    "Switch-Off": {
+      "frame": { "x": 411, "y": 804, "w": 140, "h": 200 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 200 },
+      "sourceSize": { "w": 140, "h": 200 }
+    },
+    "Switch-On": {
+      "frame": { "x": 555, "y": 804, "w": 140, "h": 200 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 200 },
+      "sourceSize": { "w": 140, "h": 200 }
+    },
+    "Knob-Normal": {
+      "frame": { "x": 2830, "y": 2382, "w": 144, "h": 144 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 144 },
+      "sourceSize": { "w": 140, "h": 140 },
+      "anchor": { "x": 0.5, "y": 0.5 }
+    },
+    "Knob": {
+      "frame": { "x": 2974, "y": 2382, "w": 144, "h": 144 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 144 },
+      "sourceSize": { "w": 144, "h": 144 },
+      "anchor": { "x": 0.5, "y": 0.5 }
+    },
+    "Left-Antenna-Normal": {
+      "frame": { "x": 1490, "y": 1382, "w": 1498, "h": 222 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1498, "h": 222 },
+      "sourceSize": { "w": 1498, "h": 222 }
+    },
+    "Left-Antenna": {
+      "frame": { "x": 1166, "y": 1156, "w": 1498, "h": 222 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1498, "h": 222 },
+      "sourceSize": { "w": 1498, "h": 222 }
+    },
+    "Right-Antenna-Normal": {
+      "frame": { "x": 3138, "y": 0, "w": 71, "h": 1799 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 1799 },
+      "sourceSize": { "w": 71, "h": 1799 }
+    },
+    "Right-Antenna": {
+      "frame": { "x": 3063, "y": 0, "w": 71, "h": 1799 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 1799 },
+      "sourceSize": { "w": 71, "h": 1799 }
+    },
+    "theremin_null": {
+      "frame": { "x": 1166, "y": 0, "w": 1893, "h": 1152 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1893, "h": 1152 },
+      "sourceSize": { "w": 1893, "h": 1152 }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "core-sheet.png",
+    "size": { "w": 3209, "h": 3422 },
+    "scale": 1
+  }
+}

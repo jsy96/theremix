@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx rollup *)",
+      "Bash(npx sirv *)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/@pixi/layers@0.3.1/lib/pixi-layers.min.js\" -o d:/cc-picture/music/theremix-master/docs/libraries/pixi.layers.min.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/teoria@2.5.0/build/teoria.min.js\" -o d:/cc-picture/music/theremix-master/docs/libraries/teoria.min.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-layers/dist/pixi-layers.js\" -o /tmp/pixi-layers-test.js)",
+      "Read(//tmp/**)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-layers/dist/pixi-layers.js\" -o d:/cc-picture/music/theremix-master/docs/libraries/pixi.layers.min.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/teoria@2.5.0/build/teoria.js\" -o /tmp/teoria-test.js)",
+      "Bash(curl -sI \"https://cdn.jsdelivr.net/npm/teoria@2.5.0/\")",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/teoria@2.5.0/teoria.js\" -o /tmp/teoria-test2.js)",
+      "Bash(curl -sL \"https://data.jsdelivr.com/v1/packages/npm/teoria@2.5.0\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(f['name']\\) for f in d.get\\('files',[]\\)]\")",
+      "Bash(curl -sL \"https://data.jsdelivr.com/v1/packages/npm/pixi-layers\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(v['version']\\) for v in d.get\\('versions',[]\\)]\")",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-layers@0.2.3/dist/pixi-layers.js\" -o /tmp/pixi-layers-0.2.3.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-layers@0.1.0/dist/pixi-layers.js\" -o /tmp/pixi-layers-0.1.0.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-display/dist/pixi-display.js\" -o /tmp/pixi-display.js)",
+      "Bash(curl -sL \"https://data.jsdelivr.com/v1/packages/npm/pixi-display\")",
+      "Bash(curl -sL \"https://data.jsdelivr.com/v1/packages/npm/pixi-display@1.1.1\")",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/pixi-lights@2.0.3/lib/pixi-lights.min.js\" -o /tmp/pixi-lights.js)",
+      "Bash(sed -i 's|https://cdn.glitch.com/bbfb2dd7-a8b0-4835-bdc2-c2fdffc99849%2FKnob.png?v=1593921823767|/assets/pixi/Knob.png|' src/components/PIXI.svelte)",
+      "Bash(sed -i 's|https://cdn.glitch.com/bbfb2dd7-a8b0-4835-bdc2-c2fdffc99849%2FKnob-Normal.png?v=1593921823860|/assets/pixi/Knob-Normal.png|' src/components/PIXI.svelte)",
+      "Bash(python -c \"from PIL import Image; print\\('PIL available'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(git rm *)",
+      "Bash(git reset *)",
+      "Bash(echo \"node_modules/\")",
+      "Bash(echo \".claude/\")"
+    ]
+  }
+}
